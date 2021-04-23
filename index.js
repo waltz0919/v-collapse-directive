@@ -1,4 +1,4 @@
-const collapse = {
+const index = {
 	inserted(el, binding, vnode) {
 		const { value } = binding
 		el.style.height = value.open
@@ -35,6 +35,6 @@ const collapse = {
 }
 export default {
 	install(Vue) {
-		Vue.directive('collapse', collapse)
+		Vue.directive('collapse', index)
 	}
 }

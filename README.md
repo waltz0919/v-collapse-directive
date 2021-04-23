@@ -1,4 +1,4 @@
-# v-collapse
+# v-index
 vue自定义收放指令
 
 
@@ -10,7 +10,7 @@ vue自定义收放指令
 参数值：{ open：容器展开时的高度（string），close：容器收起时的高度（string），icon：按钮图标类名，style：按钮样式 }
 
 ```vue
- <div v-collapse="{open:'200px',close:'43px'}"> 
+ <div v-index="{open:'200px',close:'43px'}"> 
    <el-table :data="[{ date: '2016-05-02', name: '王小虎', address: '上海市普陀区金沙江路 1518 弄' }, { date: '2016-05-04', name: '王小虎', address: '上海市普陀区金沙江路 1517 弄' }]" style="width: 100%;height:100%;"> 
     <el-table-column prop="date" label="日期" width="180" /> 
     <el-table-column prop="name" label="姓名" width="180" /> 
@@ -22,8 +22,9 @@ vue自定义收放指令
 #### main.js
 
 ```js
-import collapse from 'collapse'
-Vue.use(collapse)
+import index from 'index'
+
+Vue.use(index)
 ```
 
 ###### 展开效果：
