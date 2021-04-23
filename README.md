@@ -19,10 +19,17 @@ vue自定义收放指令
   </div>
 ```
 
-#### main：
+#### main.js
 
 ```js
 import collapse from 'collapse'
 Vue.use(collapse)
 ```
 
+###### 展开效果：
+
+![image-20210423150824478](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210423150824478.png)
+
+###### 收起效果：
+
+![image-20210423150852949](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210423150852949.png)
