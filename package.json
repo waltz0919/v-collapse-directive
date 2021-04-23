@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waltz0919/v-collapse.git"
+    "url": "git+https://github.com/waltz0919/v-collapse-directive.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/waltz0919/v-collapse/issues"
+    "url": "https://github.com/waltz0919/v-collapse-directive/issues"
   },
-  "homepage": "https://github.com/waltz0919/v-collapse#readme"
+  "homepage": "https://github.com/waltz0919/v-collapse-directive#readme"
 }
