@@ -5,6 +5,12 @@ vue自定义收放指令
 
 ##### 使用方法：
 
+```bash
+npm i v-collapse-directive --save
+```
+
+
+
 #### template：v-collapse绑定在父容器上，子元素高度设为100%。
 
 参数值：{ open：容器展开时的高度（string），close：容器收起时的高度（string），icon：按钮图标类名，style：按钮样式 }
