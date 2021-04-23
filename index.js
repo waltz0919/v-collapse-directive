@@ -1,11 +1,11 @@
-const index = {
+const collapse = {
 	inserted(el, binding, vnode) {
 		const { value } = binding
 		el.style.height = value.open
 		el.style.transition = 'all .4s'
 		let collapse = true
 		const collapseBtn = document.createElement('i')
-		const style = value.style ?? {
+		const style = value.style || {
 			position: 'absolute',
 			right: '15px',
 			top: '12px',
@@ -19,7 +19,7 @@ const index = {
 		Object.keys(style).forEach((key) => {
 			collapseBtn.style[key] = style[key]
 		})
-		collapseBtn.className = value.icon ?? 'el-icon-arrow-down'
+		collapseBtn.className = value.icon || 'el-icon-arrow-down'
 		el.appendChild(collapseBtn)
 		collapseBtn.addEventListener('click', (e) => {
 			if (collapse) {
@@ -35,6 +35,6 @@ const index = {
 }
 export default {
 	install(Vue) {
-		Vue.directive('collapse', index)
+		Vue.directive('collapse', collapse)
 	}
 }

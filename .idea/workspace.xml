@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5330e325-b0db-47f8-ba6b-9a803f94219b" name="Default Changelist" comment="更新文件">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,9 @@
       <updated>1619159331265</updated>
       <workItem from="1619159333141" duration="752000" />
       <workItem from="1619162137174" duration="2013000" />
+      <workItem from="1619165921989" duration="517000" />
+      <workItem from="1619166444580" duration="544000" />
+      <workItem from="1619167317143" duration="210000" />
     </task>
     <task id="LOCAL-00001" summary="更新文档">
       <created>1619162154655</created>

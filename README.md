@@ -1,4 +1,4 @@
-# v-collapse
+# v-collapse-directive
 vue自定义收放指令
 
 
@@ -22,7 +22,7 @@ vue自定义收放指令
 #### main.js
 
 ```js
-import collapse from 'v-collapse'
+import collapse from 'v-collapse-directive'
 
 Vue.use(collapse)
 ```
