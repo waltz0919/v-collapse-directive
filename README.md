@@ -22,9 +22,9 @@ vue自定义收放指令
 #### main.js
 
 ```js
-import index from 'index'
+import collapse from 'v-collapse'
 
-Vue.use(index)
+Vue.use(collapse)
 ```
 
 ###### 展开效果：

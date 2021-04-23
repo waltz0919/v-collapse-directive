@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5330e325-b0db-47f8-ba6b-9a803f94219b" name="Default Changelist" comment="更新文档">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/v-collapse.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="5330e325-b0db-47f8-ba6b-9a803f94219b" name="Default Changelist" comment="更新文件" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619159331265</updated>
       <workItem from="1619159333141" duration="752000" />
-      <workItem from="1619162137174" duration="940000" />
+      <workItem from="1619162137174" duration="1559000" />
     </task>
     <task id="LOCAL-00001" summary="更新文档">
       <created>1619162154655</created>
@@ -63,7 +58,35 @@
       <option name="project" value="LOCAL" />
       <updated>1619162748851</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新文档">
+      <created>1619163169475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619163169475</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新文档">
+      <created>1619163177080</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619163177080</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更新文档">
+      <created>1619163490774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619163490774</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更新文件">
+      <created>1619163605982</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619163605982</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新文档" />
+    <MESSAGE value="更新文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新文件" />
   </component>
 </project>
