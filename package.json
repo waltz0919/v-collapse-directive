@@ -1,0 +1,19 @@
+{
+  "name": "v-collapse-directive",
+  "version": "1.0.2",
+  "description": "vue自定义收放指令",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waltz0919/v-collapse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waltz0919/v-collapse/issues"
+  },
+  "homepage": "https://github.com/waltz0919/v-collapse#readme"
+}
